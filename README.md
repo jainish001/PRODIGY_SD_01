@@ -7,5 +7,4 @@ A simple Python program to convert temperature between:
 Celsius
 Fahrenheit
 Kelvin
-🔧 How to Run:
-python temperature_converter.py
+
